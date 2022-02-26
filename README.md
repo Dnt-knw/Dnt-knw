@@ -2,4 +2,4 @@
 <br />
 <br />
 <img src="https://dl.dropbox.com/s/kfa8pkqto625tcd/working.gif" height="200" alt='Working' /></h1>
-<h3 align="center">A self-taught learner of front-end development from Russia <img src='https://acegif.com/wp-content/gifs/russian-flag-3.gif' height='24' /></h3>
+<h3 align="center">A self-taught learner of front-end development from Russia <img src='https://acegif.com/wp-content/gifs/russian-flag-3.gif' height='18' /></h3>
