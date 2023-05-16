@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="./Hi.gif" width='32' height="32" alt='Hi' />, I'm <a href="https://www.sololearn.com/profile/15463112" target="_blank">Nikolay</a> 👈 </h1>
+<h1 align="center"> Hi there <img src="./Hi.gif" width='32' height="32" alt='Hi' />, I'm <img src='./Name.gif' /> </h1>
 <br />
 <p align='center'> <img src="./Me.gif" alt='Me' align='center' /> </p>
 
@@ -57,7 +57,9 @@
 
 ## Social networks 📧
 <a href='https://telegram.me/shrmznv'> ![Telegram](https://img.shields.io/badge/Telegram-shrmznv-C9AA8D?style=for-the-badge&logo=telegram&labelColor=6B6463) </a>
+<a href="https://www.linkedin.com/in/shrstav"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay_Sharmazanov-C9AA8D?style=for-the-badge&logo=linkedin&labelColor=6B6463&logoColor=3292C8) </a>
 <a href="mailto:sharmazanov99@mail.ru"> ![Mail](https://img.shields.io/badge/Mail-Sharmazanov99@mail.ru-C9AA8D?style=for-the-badge&logo=Mail.Ru&labelColor=6B6463&logoColor=FF9E00) </a>
+<a href="https://www.sololearn.com/profile/15463112"> ![Sololearn](https://img.shields.io/badge/Sololearn-★_Don’t_Know_★-C9AA8D?style=for-the-badge&logo=sololearn&labelColor=6B6463&logoColor=2493DF) </a>
 
 ## Stats 📊
 
