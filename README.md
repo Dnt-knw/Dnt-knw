@@ -21,6 +21,7 @@
 <a href='#'> ![Redux-Toolkit](https://img.shields.io/badge/Redux--Toolkit-1.9.3-C9AA8D?style=for-the-badge&logo=redux&labelColor=6B6463&logoColor=FFFFFF) </a>
 <a href='#'> ![Material-UI](https://img.shields.io/badge/Material--UI-5.11.16-C9AA8D?style=for-the-badge&logo=MUI&labelColor=6B6463&logoColor=007FFF) </a>
 <a href='#'> ![Styled-Components](https://img.shields.io/badge/Styled--Components-5.3.9-C9AA8D?style=for-the-badge&logo=styledcomponents&labelColor=6B6463&logoColor=DB7093) </a>
+<a href='#'> ![Three.js](https://img.shields.io/badge/Three.js-0.144.0-C9AA8D?style=for-the-badge&logo=three.js&labelColor=6B6463&logoColor=151515) </a>
 
 ### Frameworks 📚
 
@@ -48,7 +49,7 @@
 
 ### ❓ What are you interested in?
 
-💬 Frontend development with React and mobile development with React Native
+💬 Browser-based 3D graphics, frontend development with React and mobile development with React Native
 
 ### ❓ What kind of education do you have?
 
@@ -76,10 +77,12 @@
 
 ## Social networks 📧
 
-<a href='https://telegram.me/shrmznv'> ![Telegram](https://img.shields.io/badge/Telegram-shrmznv-C9AA8D?style=for-the-badge&logo=telegram&labelColor=6B6463) </a>
-<a href="https://www.linkedin.com/in/shrstav"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay_Sharmazanov-C9AA8D?style=for-the-badge&logo=linkedin&labelColor=6B6463&logoColor=3292C8) </a>
-<a href="mailto:sharmazanov99@mail.ru"> ![Mail](https://img.shields.io/badge/Mail-Sharmazanov99@mail.ru-C9AA8D?style=for-the-badge&logo=Mail.Ru&labelColor=6B6463&logoColor=FF9E00) </a>
-<a href="https://www.sololearn.com/profile/15463112"> ![Sololearn](https://img.shields.io/badge/Sololearn-★_Don’t_Know_★-C9AA8D?style=for-the-badge&logo=sololearn&labelColor=6B6463&logoColor=2493DF) </a>
+<span>
+  <a href='https://telegram.me/shrmznv' target="_blank"> <img src='./telegram.png' width='50' alt='telegram' title='Telegram' /> </a> &nbsp;
+  <a href='https://www.linkedin.com/in/shrstav' target="_blank"> <img src='./linkedIn.png' width='50' alt='linkedIn' title='LinkedIn' /> </a> &nbsp;
+  <a href='https://www.sololearn.com/profile/15463112' target="_blank"> <img src='./sololearn.png' width='50' alt='sololearn' title='Sololearn' /> </a> &nbsp;
+  <a href='mailto:sharmazanov99@mail.ru' target="_blank"> <img src='./mail.png' width='50' alt='mail' title='Mail' /> </a> &nbsp;
+</span>
 
 ## Stats 📊
 
