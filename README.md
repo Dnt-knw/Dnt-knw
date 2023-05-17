@@ -23,10 +23,6 @@
 
 💬 My name is Nikolay, I am a self-taught frontend developer from Russia
 
-### ❓ How old are you?
-
-💬 I am 23 years old
-
 ### ❓ What is your activity?
 
 💬 Development of browser applications
@@ -34,6 +30,10 @@
 ### ❓ What are you interested in?
 
 💬 Frontend development with React and mobile development with React Native
+
+### ❓ What kind of education do you have?
+
+💬 I graduated from StSAU with a degree related to the hotel business
 
 ### ❓ When did you start learning frontend development?
 
@@ -45,7 +45,7 @@
 
 ### ❓ What are you currently doing?
 
-💬 I am developing new projects with React + Redux Toolkit + MUI + TypeScript
+💬 I am developing my new projects with React + Redux Toolkit + Material-UI + TypeScript
 
 ### ❓ How much do you like frontend development?
 
@@ -53,7 +53,7 @@
 
 ### ❓ How can I contact you?
 
-💬 Write to me in <a href='https://telegram.me/shrmznv'> Telegram </a>
+💬 Write me in <a href='https://telegram.me/shrmznv'> Telegram </a>
 
 ## Social networks 📧
 <a href='https://telegram.me/shrmznv'> ![Telegram](https://img.shields.io/badge/Telegram-shrmznv-C9AA8D?style=for-the-badge&logo=telegram&labelColor=6B6463) </a>
