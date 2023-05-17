@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there <img src="./Hi.gif" width='32' height="32" alt='Hi' />, I'm <img src='./Name.gif' /> </h1>
+<h1 align="center"> Hi there <img src="./Hi.gif" width='32' height="32" alt='Hi' title='Hi' />, I'm <img src='./Name.gif' alt='Name' title='Nikolay' /> </h1>
 <br />
-<p align='center'> <img src="./Me.gif" alt='Me' align='center' /> </p>
+<p align='center'> <img src="./Me.gif" alt='Me' title='Me' align='center' /> </p>
 
 ## Skills 📖
 
@@ -78,10 +78,10 @@
 ## Social networks 📧
 
 <span>
-  <a href='https://telegram.me/shrmznv' target="_blank"> <img src='./telegram.png' width='50' alt='telegram' title='Telegram' /> </a> &nbsp;
-  <a href='https://www.linkedin.com/in/shrstav' target="_blank"> <img src='./linkedIn.png' width='50' alt='linkedIn' title='LinkedIn' /> </a> &nbsp;
-  <a href='https://www.sololearn.com/profile/15463112' target="_blank"> <img src='./sololearn.png' width='50' alt='sololearn' title='Sololearn' /> </a> &nbsp;
-  <a href='mailto:sharmazanov99@mail.ru' target="_blank"> <img src='./mail.png' width='50' alt='mail' title='Mail' /> </a> &nbsp;
+  <a href='https://telegram.me/shrmznv' target="_blank"> <img src='./telegram.png' width='55' height='55' alt='telegram' title='Telegram' /> </a> &nbsp;
+  <a href='https://www.linkedin.com/in/shrstav' target="_blank"> <img src='./linkedIn.png' width='55' height='55' alt='linkedIn' title='LinkedIn' /> </a> &nbsp;
+  <a href='mailto:sharmazanov99@mail.ru' target="_blank"> <img src='./mail.png' width='55' height='55' alt='mail' title='Mail' /> </a> &nbsp;
+  <a href='https://www.sololearn.com/profile/15463112' target="_blank"> <img src='./sololearn.png' width='55' height='55' alt='sololearn' title='Sololearn' /> </a> &nbsp;
 </span>
 
 ## Stats 📊
