@@ -21,7 +21,7 @@
 <a href='#'> ![Redux-Toolkit](https://img.shields.io/badge/Redux--Toolkit-1.9.3-C9AA8D?style=for-the-badge&logo=redux&labelColor=6B6463&logoColor=FFFFFF) </a>
 <a href='#'> ![Material-UI](https://img.shields.io/badge/Material--UI-5.11.16-C9AA8D?style=for-the-badge&logo=MUI&labelColor=6B6463&logoColor=007FFF) </a>
 <a href='#'> ![Styled-Components](https://img.shields.io/badge/Styled--Components-5.3.9-C9AA8D?style=for-the-badge&logo=styledcomponents&labelColor=6B6463&logoColor=DB7093) </a>
-<a href='#'> ![Three.js](https://img.shields.io/badge/Three.js-0.144.0-C9AA8D?style=for-the-badge&logo=three.js&labelColor=6B6463&logoColor=151515) </a>
+<a href='#'> ![Three.js](https://img.shields.io/badge/Three.js-0.144.0-C9AA8D?style=for-the-badge&logo=three.js&labelColor=6B6463&logoColor=000000) </a>
 
 ### Frameworks 📚
 
