@@ -78,10 +78,10 @@
 ## Social networks 📧
 
 <span>
-  <a href='https://telegram.me/shrmznv' target="_blank"> <img src='./telegram.png' width='55' height='55' alt='telegram' title='Telegram' /> </a> &nbsp;
-  <a href='https://www.linkedin.com/in/shrstav' target="_blank"> <img src='./linkedIn.png' width='55' height='55' alt='linkedIn' title='LinkedIn' /> </a> &nbsp;
-  <a href='mailto:sharmazanov99@mail.ru' target="_blank"> <img src='./mail.png' width='55' height='55' alt='mail' title='Mail' /> </a> &nbsp;
-  <a href='https://www.sololearn.com/profile/15463112' target="_blank"> <img src='./sololearn.png' width='55' height='55' alt='sololearn' title='Sololearn' /> </a> &nbsp;
+  <a href='https://telegram.me/shrmznv' target="_blank"><img src='./telegram.png' width='55' height='55' alt='telegram' title='Telegram' /></a>&nbsp;
+  <a href='https://www.linkedin.com/in/shrstav' target="_blank"><img src='./linkedIn.png' width='55' height='55' alt='linkedIn' title='LinkedIn' /></a>&nbsp;
+  <a href='mailto:sharmazanov99@mail.ru' target="_blank"><img src='./mail.png' width='55' height='55' alt='mail' title='Mail' /></a>&nbsp;
+  <a href='https://www.sololearn.com/profile/15463112' target="_blank"><img src='./sololearn.png' width='55' height='55' alt='sololearn' title='Sololearn' /></a>&nbsp;
 </span>
 
 ## Stats 📊
