@@ -65,7 +65,7 @@
 
 ### ❓ What are you currently doing?
 
-💬 I am developing my new projects with React + Redux Toolkit + Material-UI + TypeScript
+💬 I am developing my new projects, improving my knowledge and looking for a job as a frontend developer
 
 ### ❓ How much do you like frontend development?
 
