@@ -88,4 +88,4 @@
 
 ### Codewars 🗡
 
-<a href='https://www.codewars.com/users/Sh%20Sh/completed'> ![Codewars](https://github.r2v.ch/codewars?user=Sh%20Sh&hide_clan=true&theme=midnight_purple&top_languages=true) </a>
+<a href='https://www.codewars.com/users/Sh%20Sh'> ![Codewars](https://github.r2v.ch/codewars?user=Sh%20Sh&hide_clan=true&theme=midnight_purple&top_languages=true) </a>
