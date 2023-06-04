@@ -29,7 +29,7 @@
 
 ### Tools ⚙️
 
-<a href='#'>![Npm](https://img.shields.io/badge/Npm-8.19.2-C9AA8D?style=for-the-badge&logo=npm&labelColor=6B6463&logoColor=CB0000)</a>
+<a href='#'>![Npm](https://img.shields.io/badge/Npm-9.6.7-C9AA8D?style=for-the-badge&logo=npm&labelColor=6B6463&logoColor=CB0000)</a>
 <a href='#'>![Yarn](https://img.shields.io/badge/Yarn-1.22.19-C9AA8D?style=for-the-badge&logo=Yarn&labelColor=6B6463&logoColor=2C8EBB)</a>
 <a href='#'>![Git](https://img.shields.io/badge/Git-2.33.0-C9AA8D?style=for-the-badge&logo=Git&labelColor=6B6463&logoColor=EE3D2B)</a>
 
