@@ -65,7 +65,7 @@
 
 ### ❓ What are you currently doing?
 
-💬 I am developing my new projects and improving my knowledge in the frontend development
+💬 I am developing my new projects and improving my knowledge in frontend development
 
 ### ❓ How much do you like frontend development?
 
