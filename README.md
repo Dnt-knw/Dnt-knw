@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there <img src="./Hi.gif" width='32' height="32" alt='Hi' title='Hi' />, I'm <img src='./Name.gif' alt='Name' title='Nikolay' /> </h1>
+<h1 align='center'> Welcome to my GitHub profile! </h1>
+<p align="center"> Hi there <img src="./Hi.gif" width='20' height="20" alt='Hi' title='Hi' />, I'm <s>Bill Gates</s> <img src='./Name.gif' alt='Name' title='Nikolay' width='100' /> </p>
 <br />
 <p align='center'> <img src="./Me.gif" alt='Me' title='Me' align='center' /> </p>
 
